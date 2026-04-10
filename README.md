@@ -1,7 +1,5 @@
 # House Market Analysis Dashboard
 
-### Dashboard Link : (Add your Power BI Service link here)
-
 ## Problem Statement
 
 This dashboard helps stakeholders understand housing market trends, sales performance, and pricing dynamics across different regions. It provides insights into property prices, sales growth, and factors influencing purchase decisions.
